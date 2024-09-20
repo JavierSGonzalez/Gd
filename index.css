@@ -1,0 +1,70 @@
+.title{
+    justify-content: center;
+    display: flex;
+    color: #E66EB2;
+  }
+   
+  .color{
+    background-image: url(https://th.bing.com/th/id/R.7213c256231cacf5c1475896f44833ac?rik=%2b80joocrmBd1dw&pid=ImgRaw&r=0&sres=1&sresct=1);
+  }
+   
+  .now{
+    justify-content: center;
+    display: flex;
+    background-color: #BF045B;
+    font-size: 27px;
+    font-style: italic;
+   
+  }
+   
+  .option{
+    color: white;
+    font-style: italic;
+    display: flex;
+    justify-content: space-between;
+  }
+   
+  .buy{
+    color: #BF045B;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  }
+   
+   .do{
+    justify-content: center;
+    display: flex;
+   }
+   
+   .bo{
+    justify-content: center;
+    display: flex;
+    height: 50px;
+   }
+   
+   .st{
+    cursor: pointer;
+    animation: reverse;
+    border: none;
+    color: white;
+    background-color: #BF045B;
+   }
+   
+   .des{
+     width: 90%;
+   }
+   
+   .po{
+    justify-content: center;
+    display: flex;
+   }
+.th{
+    width: 1301px;
+   
+   
+}
+
+.tion{
+    border-bottom-right-radius: inherit;
+}
