@@ -51,6 +51,7 @@
     border-radius: 5px;
     cursor: pointer;
     transition: transform 0.3s, background-color 0.3s, box-shadow 0.3s;
+    font-style: italic;
    }
    
    .des{
@@ -68,6 +69,7 @@
 }
 
 .ame{
+  position: static;
     width: 1300px;
     height: 590px;
     overflow: hidden;
@@ -85,9 +87,11 @@
     right: 750px;
 }
 
-.deluxe{
-    position: absolute;
-    font-style: italic;
-    top: 1500px;
-    right: 750px;
+.del{
+  position: absolute;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+  top: 1450px;
+  right: 750px;
 }
