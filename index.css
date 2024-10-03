@@ -92,6 +92,32 @@
   font-style: italic;
   font-size: 30px;
   color: white;
-  top: 1450px;
-  right: 750px;
+  top: 1470px;
+  right: 700px;
+}
+
+.edi{
+  position: absolute;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+  top: 1500px;
+  right: 700px;
+}
+
+.pre{
+  color: white;
+    background-color: #BF045B;
+    box-shadow: white;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s, box-shadow 0.3s;
+    font-style: italic;
+    position: absolute;
+    top: 1585px;
+    right: 850px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-style: solid;
+    height: 50px;
 }
