@@ -121,3 +121,63 @@
     border-style: solid;
     height: 50px;
 }
+
+.relax{
+  position: relative;
+  width: 1300px;
+}
+ 
+.width{
+  height: 565px;
+  overflow: hidden;
+}
+ 
+.go{
+  position: absolute;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+  top: 2035px;
+  right: 850px;
+}
+ 
+.stream{
+  height: 40px;
+  width: 125px;
+  color: white;
+    background-color: #BF045B;
+    box-shadow: white;
+    border-style: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-style: italic;
+    font-size: 15px;
+    top: 2125px;
+    right: 930px;
+    position: absolute;
+}
+ 
+.vinyl{
+  height: 40px;
+  width: 125px;
+  color: white;
+    background-color: #BF045B;
+    box-shadow: white;
+    border-style: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-style: italic;
+    font-size: 15px;
+    top: 2125px;
+    right: 750px;
+    position: absolute;
+}
+ 
+.album{
+  position: absolute;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+  top: 1925px;
+  right: 800px;
+}
